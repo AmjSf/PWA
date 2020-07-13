@@ -2,8 +2,8 @@
     "name": "L'adas",
     "short_name": "LADAS",
     "start_url": ".",
-    "background_color": "#6dcdb1",
-    "theme_color": "#985578",
+    "background_color": "#ff0000",
+    "theme_color": "#ff0000",
     "display": "standalone",
     "icons": [
         {
